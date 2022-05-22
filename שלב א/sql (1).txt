@@ -1,0 +1,69 @@
+INSERT INTO client
+(1,'Israel Police', 'Roni Alsheikh', 3 );
+
+INSERT INTO client
+(2,'FBI', 'James Buttler', 2 );
+
+INSERT INTO client
+(3,'Facebook', 'zuck', 1 );
+
+INSERT INTO client
+(4,'FSB', 'vladdy P', 1 );
+
+
+
+
+INSERT INTO spyware
+VALUES (1,1, 'Pegasus-a', 'andorid', 'remote trojan horse', 3);
+
+INSERT INTO spyware
+VALUES (2,2, 'Pegasus-iso', 'iso', 'remote trojan horse', 3);
+
+INSERT INTO spyware
+VALUES (3,3, 'zuckernerg 2000', 'windows', 'key logger', 1);
+
+INSERT INTO spyware
+VALUES (4,4, 'bill form microsoft support', 'windows', 'cryptominer', 1);
+
+
+
+
+
+
+
+INSERT INTO project
+VALUES (1, 'project Alsheikh',TO_DATE('1/1/2012', 'dd/mm/yyyy'), 1);
+
+INSERT INTO project
+VALUES (2, 'project Zucky',TO_DATE('12/5/2011', 'dd/mm/yyyy'), 1);
+
+INSERT INTO project
+VALUES (3, 'project Airmail',TO_DATE('24/2/2019', 'dd/mm/yyyy'), 3);
+
+INSERT INTO project
+VALUES (4, 'project Game on', TO_DATE('2/4/2017', 'dd/mm/yyyy'), 3);
+
+
+
+
+
+
+
+
+INSERT INTO actionreport
+VALUES (1, TO_DATE('26/8/2022', 'dd/mm/yyyy'), 'suspct listens to static and benel frequently - immediate action requierd', 1, 1, 1,5);
+
+INSERT INTO actionreport
+VALUES (2, TO_DATE('13/9/2020', 'dd/mm/yyyy'), 'nothing to report ', 2, 2, 2,6);
+
+INSERT INTO actionreport
+VALUES (3,TO_DATE('2/2/2019', 'dd/mm/yyyy'), 'made 1000 $', 3, 3, 3,7);
+
+INSERT INTO actionreport
+VALUES (4, TO_DATE('15/2/2020', 'dd/mm/yyyy'), 'bank password is 123456', 4, 4, 4,8);
+
+
+
+
+
+

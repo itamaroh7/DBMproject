@@ -1,0 +1,121 @@
+CREATE TABLE Location
+(
+  Country VARCHAR(60) NOT NULL,
+  City VARCHAR(60) NOT NULL,
+  Address VARCHAR(100) NOT NULL,
+  LocationID INT NOT NULL,
+  PRIMARY KEY (LocationID),
+  UNIQUE (Country, CIty, Address)
+);
+
+CREATE TABLE Person
+(
+  PersonID INT NOT NULL,
+  Name VARCHAR(60) NOT NULL,
+  Phone VARCHAR(60) NOT NULL,
+  LocationID INT NOT NULL,
+  PRIMARY KEY (PersonID),
+  FOREIGN KEY (LocationID) REFERENCES Location(LocationID)
+);
+
+CREATE TABLE Target
+(
+  Dossier VARCHAR(200) NOT NULL,
+  PersonID INT NOT NULL,
+  PRIMARY KEY (PersonID),
+  FOREIGN KEY (PersonID) REFERENCES Person(PersonID)
+);
+
+CREATE TABLE Client
+(
+  ClientID INT NOT NULL,
+  CompanyName VARCHAR(60) NOT NULL,
+  Contact VARCHAR(60) NOT NULL,
+  ClearenceLevel INT NOT NULL,
+  PRIMARY KEY (ClientID)
+);
+
+
+CREATE TABLE Department
+(
+  DeptID INT NOT NULL,
+  DeptName VARCHAR(60) NOT NULL,
+  LocationID INT NOT NULL,
+  PRIMARY KEY (DeptID),
+  FOREIGN KEY (LocationID) REFERENCES Location(LocationID)
+);
+
+
+
+CREATE TABLE Project
+(
+  ProjectID INT NOT NULL,
+  ProjectName VARCHAR(60) NOT NULL,
+  Deadline DATE NOT NULL,
+  PRIMARY KEY (ProjectID)
+);
+
+CREATE TABLE Team
+(
+  TeamName VARCHAR(60) NOT NULL,
+  TeamID INT NOT NULL,
+  ProjectID INT NOT NULL,
+  DeptID INT NOT NULL,
+  PRIMARY KEY (TeamID),
+  FOREIGN KEY (ProjectID) REFERENCES Project(ProjectID),
+  FOREIGN KEY (DeptID) REFERENCES Department(DeptID)
+);
+
+CREATE TABLE Worker
+(
+  Seniority INT NOT NULL,
+  Salary FLOAT NOT NULL,
+  PersonID INT NOT NULL,
+  TeamID INT NOT NULL,
+  PRIMARY KEY (PersonID),
+  FOREIGN KEY (PersonID) REFERENCES Person(PersonID),
+  FOREIGN KEY (TeamID) REFERENCES Team(TeamID)
+);
+
+
+CREATE TABLE Spyware
+(
+  SpywareID INT NOT NULL,
+  SpywareName VARCHAR(60) NOT NULL,
+  Platform VARCHAR(60) NOT NULL,
+  Type VARCHAR(60) NOT NULL,
+  ClearenceLevel INT NOT NULL,
+  ProjectID INT NOT NULL,
+  PRIMARY KEY (SpywareID, ProjectID),
+  FOREIGN KEY (ProjectID) REFERENCES Project(ProjectID)
+);
+
+CREATE TABLE ActionReport
+(
+  ReportID INT NOT NULL,
+  DateReport DATE NOT NULL,
+  Findings VARCHAR(200) NOT NULL,
+  SpywareID INT NOT NULL,
+  ProjectID INT NOT NULL,
+  ClientID INT NOT NULL,
+  PersonID INT NOT NULL,
+  PRIMARY KEY (ReportID),
+  FOREIGN KEY (SpywareID, ProjectID) REFERENCES Spyware(SpywareID, ProjectID),
+  FOREIGN KEY (ClientID) REFERENCES Client(ClientID),
+  FOREIGN KEY (PersonID) REFERENCES Target(PersonID)
+);
+
+
+
+CREATE TABLE Sold_to
+(
+  Price FLOAT NOT NULL,
+  SoldDate DATE NOT NULL,
+  SalesReprestitive INT NOT NULL,
+  SpywareID INT NOT NULL,
+  ProjectID INT NOT NULL,
+  ClientID INT NOT NULL,
+  PRIMARY KEY (SpywareID, ProjectID, ClientID),
+  FOREIGN KEY (SpywareID, ProjectID) REFERENCES Spyware(SpywareID, ProjectID),
+  FOREIGN KEY (ClientID) REFERENCES Client(ClientID)
+);

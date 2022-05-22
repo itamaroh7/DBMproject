@@ -1,0 +1,142 @@
+
+
+INSERT INTO location
+VALUES ('Israel','Jerusalem', 'Kiryat Yovel 23' );
+
+INSERT INTO location
+VALUES ('Israel','Haifa', 'Givhat Mordechai 1' );
+
+INSERT INTO location
+VALUES ('Israel','Jerusalem', 'Har Choma 31' );
+
+INSERT INTO location
+VALUES ('Israel','Tel-Aviv', 'Dizingof 22' );
+
+INSERT INTO Location
+VALUES ('somalia','bana-east', 'Ada' );
+
+INSERT INTO Location
+VALUES ('Rusia','Moscow', 'Komovitch 12' );
+
+INSERT INTO Location
+VALUES ('Japan','Tokyo', 'Jinfoo 234' );
+
+INSERT INTO Location
+VALUES ('Israel','Tel-Aviv', 'Dizingof 99' );
+
+INSERT INTO Location
+VALUES ('Israel','Herzlyia', 'Steel Wheels 22');
+
+INSERT INTO Location
+VALUES ('Israel','Raanana', 'Industry 25' );
+
+
+
+
+
+
+
+
+
+INSERT INTO Person
+VALUES (1,'Moshe Cohen', '0502433121', 'Israel','Jerusalem','Kiryat Yovel 23' );
+
+INSERT INTO Person
+VALUES (2,'Avi Levi', '0527675898', 'Israel','Haifa', 'Givhat Mordechai 1' );
+
+INSERT INTO Person
+VALUES (3,'Ron Danon', '0543732665', 'Israel','Jerusalem', 'Har Choma 31' );
+
+INSERT INTO Person
+VALUES (4,'Dana Ben-Lulu', '0506455123', 'Israel','Tel-Aviv', 'Dizingof 22' );
+
+INSERT INTO Person
+VALUES (5,'Agabu Bombi', '9431234536212', 'somalia','bana-east', 'Ada' );
+
+INSERT INTO Person
+VALUES (6,'Jack Jon', '442457982371', 'Rusia','Moscow', 'Komovitch 12' );
+
+INSERT INTO Person
+VALUES (7,'Lu Phan-ing', '223243562351', 'Japan','Tokyo', 'Jinfoo 234' );
+
+INSERT INTO Person
+VALUES (8,'Yossi Ofer', '0531446239', 'Israel','Tel-Aviv', 'Dizingof 99' );
+
+
+
+
+
+
+INSERT INTO Worker
+VALUES ('senior',17500, 1, 2);
+
+INSERT INTO Worker
+VALUES ('Middle management',20700, 2, 2);
+
+INSERT INTO Worker
+VALUES ('Flevel management',15300, 3, 1);
+
+INSERT INTO Worker
+VALUES ('Middle management',22700, 4, 1);
+
+
+
+
+
+
+INSERT INTO Target
+VALUES ('TZ- 3923123521 ,black hair,brown eyes,1.78,110kg ', 5);
+
+INSERT INTO Target
+VALUES ('TZ- 23456732321 ,yellow hair,brown eyes,1.68,70kg ', 6);
+
+INSERT INTO Target
+VALUES ('TZ- 45621324354 ,black hair,brown eyes,1.90,105kg ',7);
+
+INSERT INTO Target
+VALUES ('TZ- 876565435467 ,red hair,blue eyes,1.83,89kg ', 8);
+
+
+
+
+
+INSERT INTO Department
+VALUES (1,'HR', 'Israel','Herzlyia', 'Steel Wheels 22' );
+
+INSERT INTO Department
+VALUES (2,'Development', 'Israel','Herzlyia', 'Steel Wheels 22');
+
+INSERT INTO Department
+VALUES (3,'IT','Israel','Raanana', 'Industry 25' );
+
+INSERT INTO Department
+VALUES (4,'Marketing', 'Israel','Raanana', 'Industry 25' );
+
+
+
+
+
+
+
+INSERT INTO SOLD_TO
+VALUES (200000, TO_DATE('26/6/2022', 'dd/mm/yyyy'),3,1, 1, 1);
+
+INSERT INTO SOLD_TO
+VALUES (150000,TO_DATE('13/7/2020', 'dd/mm/yyyy'), 3,2, 2, 2);
+
+INSERT INTO SOLD_TO
+VALUES (450000,TO_DATE('2/1/2019', 'dd/mm/yyyy'), 4,3, 3, 3);
+
+INSERT INTO SOLD_TO
+VALUES (375000,TO_DATE('15/1/2020', 'dd/mm/yyyy'), 4,4, 4, 4 );
+
+
+
+
+INSERT INTO TEAM
+VALUES ('',1, 2, 1,2);
+
+INSERT INTO TEAM
+VALUES ('',2,4, 2, 2);
+
+

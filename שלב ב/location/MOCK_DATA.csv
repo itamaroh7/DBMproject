@@ -1,0 +1,501 @@
+Country,City,Address,LocationID
+Poland,Otwock,New Castle,1
+Kyrgyzstan,Balykchy,Summerview,2
+Poland,Pruszków,Golf,3
+Sri Lanka,Katunayaka,Thackeray,4
+China,Shajing,Mendota,5
+Albania,Xibër-Murrizë,Boyd,6
+China,Dengjia,Hazelcrest,7
+China,Xiamao,Dakota,8
+Indonesia,Tumpang Satu,Cambridge,9
+Portugal,Miraflores,School,10
+Uruguay,Castillos,Shelley,11
+Honduras,La Estancia,Stoughton,12
+Peru,Chingas,Starling,13
+Indonesia,Poponcol,Sunnyside,14
+China,Wuqu,Kropf,15
+Brazil,Goiatuba,Northview,16
+Hungary,Szolnok,Kedzie,17
+China,Dongzhang,Russell,18
+Ukraine,Kyrylivka,Magdeline,19
+Sweden,Bankeryd,Merry,20
+Pakistan,Kallar Kahār,Summerview,21
+China,Changning,Heffernan,22
+South Africa,Greytown,Kingsford,23
+Czech Republic,Opočno,Glendale,24
+Philippines,Odiongan,Swallow,25
+Kosovo,Obiliq,Roxbury,26
+France,Cosne-Cours-sur-Loire,Vermont,27
+Guatemala,Taxisco,New Castle,28
+Indonesia,Dalududalu,Kennedy,29
+Russia,Bol’shoy Karay,Ramsey,30
+Croatia,Novalja,Steensland,31
+Indonesia,Duwe,Ramsey,32
+China,Jinlong,Shasta,33
+China,Wanzhai,Waubesa,34
+China,Longgang,Dennis,35
+Libya,Tarhuna,Briar Crest,36
+Mexico,San Diego,Florence,37
+Yemen,Al Ḩarf,Derek,38
+Isle of Man,Laxey,Leroy,39
+Indonesia,Anjirmuara,Pine View,40
+France,Angers,Mayer,41
+United States,Charlotte,Bunting,42
+Argentina,Bonpland,Trailsway,43
+Pakistan,Alpūrai,Logan,44
+France,Roubaix,Village Green,45
+Russia,Spassk-Dal’niy,Melody,46
+China,Xikou,Bowman,47
+Czech Republic,Jindřichův Hradec,Crownhardt,48
+Philippines,Muñoz East,John Wall,49
+Luxembourg,Lenningen,Portage,50
+Kazakhstan,Almaty,Rowland,51
+Estonia,Kilingi-Nõmme,Texas,52
+China,Lutun,Kinsman,53
+New Zealand,Invercargill,Brentwood,54
+Brazil,Araçuaí,Mcguire,55
+Japan,Kariya,Scoville,56
+Portugal,Cortiçóis,Sutherland,57
+China,Tancheng,Namekagon,58
+China,Luwu,Iowa,59
+Tanzania,Magugu,Bunting,60
+Italy,Livorno,Ridgeway,61
+Russia,Rybnaya Sloboda,Hollow Ridge,62
+France,Melun,Evergreen,63
+Russia,Batagay-Alyta,Oxford,64
+Philippines,Malalag,Harbort,65
+China,Zhougang,Lillian,66
+Nigeria,Kazaure,Kensington,67
+China,Biyong,Iowa,68
+Brazil,Goiânia,Butterfield,69
+Indonesia,Mojokerto,Melvin,70
+Indonesia,Riangwale,Miller,71
+Ivory Coast,Agboville,Prairie Rose,72
+Indonesia,Bambanglipuro,Schlimgen,73
+Morocco,Mellila,Carioca,74
+Indonesia,Kembang,Spenser,75
+Colombia,Pedraza,Mitchell,76
+China,Jiangtun,Boyd,77
+Philippines,Manika,Swallow,78
+France,Rodez,Thierer,79
+Poland,Nowosielce,Helena,80
+China,Daidaon,Rusk,81
+Indonesia,Sapat,Spohn,82
+Brazil,Santana de Parnaíba,Marcy,83
+Sweden,Stockholm,Atwood,84
+Indonesia,Beo,Warner,85
+China,Dalian,Browning,86
+Indonesia,Sidikalang,Gerald,87
+Dominican Republic,Bayaguana,Eliot,88
+Sweden,Värnamo,Arrowood,89
+Colombia,El Cantón de San Pablo,Basil,90
+Jamaica,Alexandria,Kings,91
+China,Dadong’ao,Oneill,92
+Sweden,Västerås,Gerald,93
+Portugal,Vinhas,Macpherson,94
+Myanmar,Letpandan,Eagle Crest,95
+China,Hongcheng,Paget,96
+Argentina,Alejo Ledesma,Vidon,97
+Portugal,Pinhal da Marquesa,Ludington,98
+China,Liugong,Anniversary,99
+Bangladesh,Pīrgaaj,2nd,100
+Ireland,Bearna,Crescent Oaks,101
+Philippines,Suba,Calypso,102
+Malaysia,Kuala Lumpur,Waxwing,103
+Colombia,Piojó,Mayfield,104
+Greece,Lidoríki,Sutherland,105
+Chile,Corral,Westridge,106
+Czech Republic,Prostřední Bečva,Del Sol,107
+Philippines,Tinalmud,Comanche,108
+China,Qaxa,Toban,109
+Ukraine,Molodizhne,Spohn,110
+Kyrgyzstan,Talas,Warner,111
+Poland,Podebłocie,International,112
+Indonesia,Batukuta,Superior,113
+China,Dingyan,Merry,114
+Ireland,Ballyboden,Farwell,115
+Philippines,Ramos,Dorton,116
+France,Saint-Brieuc,Dottie,117
+Philippines,Uacon,Arrowood,118
+South Africa,Cullinan,Scoville,119
+Russia,Vladivostok,Grover,120
+South Korea,Kyosai,Blackbird,121
+Portugal,Paço,Mallard,122
+Serbia,Stari Lec,Charing Cross,123
+Mongolia,Örgön,Wayridge,124
+Japan,Mutsu,Kennedy,125
+Indonesia,Cikaras,Cambridge,126
+Indonesia,Negararatu,Moulton,127
+China,Tadianjie,Mendota,128
+China,Hongsihu,Barnett,129
+China,Wangchuanchang,Farragut,130
+Indonesia,Labansari,Esch,131
+France,Nancy,Iowa,132
+Argentina,Famaillá,Arkansas,133
+Philippines,Carriedo,Hovde,134
+Chad,Goz Beïda,Eastwood,135
+Armenia,Maralik,Lakeland,136
+China,Weiguo,Mayfield,137
+Philippines,Claver,Merry,138
+Poland,Opatów,Meadow Vale,139
+China,Bieligutai,Susan,140
+United States,Wichita,Buell,141
+Macedonia,Старо Нагоричане,Autumn Leaf,142
+Philippines,Maanas,Dayton,143
+Belarus,Uzda,Harbort,144
+Niger,Tibiri,Dunning,145
+Myanmar,Myaydo,Dennis,146
+China,Meiqi,Fordem,147
+China,Yushanpu,Grover,148
+Sweden,Borlänge,Veith,149
+Czech Republic,Líně,Everett,150
+Indonesia,Cikotok,Jana,151
+Poland,Podebłocie,Calypso,152
+Dominican Republic,Miches,La Follette,153
+Iceland,Reykjanesbær,Buhler,154
+Indonesia,Tanjungkerta,High Crossing,155
+Colombia,Orocué,Esch,156
+France,Amboise,Harbort,157
+Brazil,Guarapuava,Manufacturers,158
+Indonesia,Banjar Pangkungkarung Kangin,Butternut,159
+Philippines,Dumalinao,Lerdahl,160
+China,Xinshancun,6th,161
+China,Xianxi,Stoughton,162
+China,Baitu,Northland,163
+Philippines,Talavera,Esker,164
+Panama,San Vicente de Bique,Monica,165
+Indonesia,Ajung,Miller,166
+Mexico,Cuauhtemoc,Eagle Crest,167
+Pakistan,Dera Murād Jamāli,Del Mar,168
+Ukraine,Pervomays’k,Dexter,169
+Nigeria,Igbor,Ridgeway,170
+Finland,Joroinen,Barby,171
+Israel,Rosh Ha‘Ayin,Sutherland,172
+Colombia,Ciénaga de Oro,Huxley,173
+China,Xipi,Lerdahl,174
+China,Fengshan,Old Shore,175
+Uruguay,Aguas Corrientes,Schlimgen,176
+China,Yangjia,Eggendart,177
+Brazil,Caruaru,Kinsman,178
+Philippines,Taloy,Tennessee,179
+Azerbaijan,Mingelchaur,Marcy,180
+Chile,Concepción,Kipling,181
+China,Mahong,Sunfield,182
+Finland,Siikainen,Melvin,183
+Saint Kitts and Nevis,Cotton Ground,Walton,184
+Indonesia,Tembau,Fuller,185
+Armenia,Bagratashen,Kim,186
+Ukraine,Zboriv,6th,187
+China,Shuitian,Hoard,188
+Greece,Gómfoi,Thompson,189
+Philippines,Quinipot,Pierstorff,190
+France,Saint-Dizier,Jenifer,191
+Taiwan,Daxi,Prairie Rose,192
+Kenya,Athi River,Hollow Ridge,193
+China,Wujia,Spenser,194
+Portugal,Faro,Gateway,195
+Indonesia,Bantengan,Warrior,196
+Mexico,Lazaro Cardenas,Magdeline,197
+Ethiopia,Harar,Schlimgen,198
+Indonesia,Babakan,Blaine,199
+Philippines,San Rafael,Del Mar,200
+China,Tangxi,Oriole,201
+Colombia,Cotorra,Huxley,202
+Russia,Bratsk,Ohio,203
+Ireland,Ballyhaunis,Basil,204
+China,Qiaodi,Stoughton,205
+Thailand,Nam Khun,Fuller,206
+Belarus,Pyetrykaw,Hoffman,207
+China,Qitao,Spaight,208
+Thailand,Prakhon Chai,Goodland,209
+Honduras,El Olivar,Homewood,210
+Russia,Yur’yev-Pol’skiy,Almo,211
+Bulgaria,Vidin,Eliot,212
+Russia,Suslonger,Menomonie,213
+France,Limoges,Riverside,214
+Latvia,Viļāni,Elmside,215
+Portugal,Venda Nova,Saint Paul,216
+Croatia,Horvati,Debs,217
+United Kingdom,Whitwell,Leroy,218
+China,Sailaitang,Grayhawk,219
+France,Cesson-Sévigné,Oakridge,220
+Cuba,Jovellanos,Tomscot,221
+Indonesia,Sindangsari,Riverside,222
+China,Liwu,Maple,223
+Venezuela,Lagunillas,Briar Crest,224
+Philippines,Limulan,Merrick,225
+Israel,Timrat,Spenser,226
+Czech Republic,Luhačovice,Sage,227
+Vietnam,Lý Sơn,Burning Wood,228
+Afghanistan,Gardēz,Petterle,229
+Brazil,Ilha Solteira,Maryland,230
+Greece,Pérama,Milwaukee,231
+United States,Oceanside,Del Sol,232
+Portugal,Vila Franca da Beira,Kingsford,233
+Serbia,Ćićevac,Portage,234
+Philippines,Igcocolo,Lien,235
+Syria,As Suwaydā’,Marquette,236
+Canada,Daveluyville,Prairie Rose,237
+Malaysia,Alor Setar,Warner,238
+Brazil,Ibirataia,Delladonna,239
+Portugal,Alcaria,Summerview,240
+China,Fuxi,Birchwood,241
+Russia,Artybash,Johnson,242
+Russia,Badar,Grover,243
+China,Qinglin,Loftsgordon,244
+Japan,Tōkamachi,Boyd,245
+Portugal,Alto do Estanqueiro,Orin,246
+Japan,Chōfugaoka,Express,247
+China,Xiaoduchuan,Hermina,248
+France,Choisy-le-Roi,Pennsylvania,249
+Brazil,Santaluz,Corry,250
+Syria,Al Karāmah,Johnson,251
+Brazil,São João de Meriti,Hollow Ridge,252
+Uganda,Amolatar,Dunning,253
+Russia,Nagornyy,Lawn,254
+France,Lille,Linden,255
+Jordan,Aydūn,Saint Paul,256
+Sweden,Västerås,Glendale,257
+China,Dalang,Maywood,258
+Denmark,København,North,259
+China,Kalatongke,Manley,260
+United States,Tucson,Donald,261
+Indonesia,Kliteh,Corry,262
+Philippines,Maigo,Crescent Oaks,263
+Sweden,Mölndal,Corscot,264
+Honduras,Florida,Monterey,265
+Russia,Vnukovo,Tennyson,266
+China,Hangji,Spohn,267
+Yemen,Rajūzah,Almo,268
+Peru,Colca,Tony,269
+Brazil,Rosário do Sul,Rusk,270
+China,Yanjiatai,New Castle,271
+Poland,Borzęcin,Ohio,272
+Kazakhstan,Ülken,Atwood,273
+Indonesia,Ulimonong,Golf,274
+China,Jingtailu,Canary,275
+China,Zhong’an,Goodland,276
+Philippines,Guyam Malaki,Farragut,277
+Norway,Molde,Dwight,278
+Lithuania,Eišiškės,Schurz,279
+United Kingdom,West End,Susan,280
+China,Jianyi,Miller,281
+Philippines,Bolaoit,Little Fleur,282
+China,Heshan,Corry,283
+Honduras,Concepción de la Barranca,Schlimgen,284
+Thailand,Non Sila,Anhalt,285
+Russia,Taganrog,Pankratz,286
+China,Jiangkou,Schlimgen,287
+Indonesia,Tegalrejo,Canary,288
+Lesotho,Butha-Buthe,Vermont,289
+Indonesia,Tadabliro,Novick,290
+Iran,Sūrīān,Eagle Crest,291
+Peru,San Pedro de Lloc,Morningstar,292
+Indonesia,Palaihari,Grover,293
+Russia,Donskoy,Oneill,294
+Ukraine,Toshkivka,West,295
+Brazil,Além Paraíba,Division,296
+Poland,Pęczniew,Fuller,297
+China,Shangping,Scoville,298
+China,Shaogongzhuang,Holmberg,299
+Indonesia,Bajawa,Gina,300
+Vietnam,Thị Trấn Kim Tân,Old Gate,301
+China,Tehetu,Steensland,302
+Indonesia,Bancak Wetan,Elka,303
+Indonesia,Kalijeruk,Dahle,304
+Ukraine,Bilozerka,Katie,305
+Cuba,San Luis,Scofield,306
+Azerbaijan,Əhmədbəyli,Schlimgen,307
+Sweden,Södertälje,Lawn,308
+Philippines,Rimus,Sheridan,309
+Morocco,Mellila,Riverside,310
+Argentina,San José de Jáchal,Cardinal,311
+Netherlands,Zeewolde,Sullivan,312
+Russia,Severoural’sk,Helena,313
+Japan,Hagi,Holmberg,314
+China,Guojia,Everett,315
+Honduras,Agualote,Barby,316
+China,Chenzhuang,Sommers,317
+Indonesia,Cibitung,Milwaukee,318
+Russia,Monastyrshchina,Hintze,319
+Dominican Republic,Sabana Iglesia,Michigan,320
+China,Lianzhou,Merrick,321
+Brazil,Itapemirim,Kingsford,322
+Bulgaria,Dimovo,Buhler,323
+China,Li’an,Norway Maple,324
+China,Lianghekou,Sage,325
+United States,El Paso,4th,326
+China,Rongxiang,Maryland,327
+Switzerland,Chur,Bashford,328
+Mali,Araouane,Kropf,329
+Greece,Kréstena,Hermina,330
+Kuwait,Kuwait City,Wayridge,331
+South Africa,White River,Briar Crest,332
+Sweden,Mörrum,Village Green,333
+Serbia,Aleksandrovac,Grasskamp,334
+United States,Columbus,Bellgrove,335
+Indonesia,Jatisari,Blackbird,336
+Portugal,Oliveira,Grasskamp,337
+Costa Rica,Aserrí,Rusk,338
+Greece,Spárti,Ryan,339
+Indonesia,Semerak,Susan,340
+Indonesia,Warudoyong,Forest,341
+Ukraine,Zalishchyky,Walton,342
+Israel,‘Arad,Northwestern,343
+Philippines,Catarman,Oxford,344
+Indonesia,Karanganyarkrajan,Birchwood,345
+Japan,Bihoro,Starling,346
+Peru,Sucre,Independence,347
+China,Nanying,Starling,348
+Japan,Shimokizukuri,Brickson Park,349
+Philippines,Balud,Golf View,350
+Paraguay,Unión,Goodland,351
+Malta,Ta’ Xbiex,Nobel,352
+Indonesia,Ketapang,Messerschmidt,353
+Philippines,Maguilling,Shelley,354
+Rwanda,Nzega,Sherman,355
+China,Jianshe,Ilene,356
+Philippines,Kimanuit,Manley,357
+Sweden,Linköping,Tomscot,358
+Indonesia,Walahir,Moulton,359
+France,Cluses,Porter,360
+Sweden,Stockholm,Forest Dale,361
+Canada,Victoria,Acker,362
+Indonesia,Rokoy,Grayhawk,363
+United States,El Paso,Clyde Gallagher,364
+Ukraine,Lyubymivka,Maple,365
+Canada,Crossfield,Comanche,366
+China,Jiangchuan,Hintze,367
+Indonesia,Kawangu Satu,Stephen,368
+Czech Republic,Nový Knín,Meadow Vale,369
+Ukraine,Krasnokuts’k,Eliot,370
+China,Zhihe,Oak,371
+Indonesia,Sungai Iyu,Blackbird,372
+Indonesia,Siderejo,Service,373
+Morocco,Fkih Ben Salah,Blackbird,374
+Israel,‘Uzeir,Mayfield,375
+Russia,Timashëvsk,Mandrake,376
+Czech Republic,Olbramovice,Lunder,377
+North Korea,Wŏnsan,Longview,378
+Russia,Belogorsk,Golf Course,379
+Mexico,Santa Elena,Granby,380
+Sweden,Motala,Marcy,381
+China,Xiashan,Sycamore,382
+Rwanda,Kigali,Morning,383
+Kyrgyzstan,Bishkek,Hoffman,384
+Netherlands,Rijswijk,Cottonwood,385
+Greece,Palaiochóri,Superior,386
+China,Zhendong,Northridge,387
+Canada,Sainte-Martine,Holy Cross,388
+China,Tuanlin,Hollow Ridge,389
+Portugal,Carvoeira,Summit,390
+China,Yanyang,Atwood,391
+China,Litian,Becker,392
+China,Tumen,Buena Vista,393
+Brazil,Guarapuava,Carey,394
+Colombia,El Doncello,Westend,395
+Indonesia,Baluk,Continental,396
+Brazil,Itabaiana,Sutherland,397
+Philippines,Candon,Green,398
+Brazil,Itamarandiba,Tennessee,399
+Philippines,Santo Niño,Eagle Crest,400
+France,Lisieux,Mallory,401
+Colombia,Granada,Tony,402
+Kenya,Eldama Ravine,Thackeray,403
+Poland,Łąka Prudnicka,Parkside,404
+France,Toulon,Division,405
+Croatia,Vojnić,Harbort,406
+Russia,Kalashnikovo,Hanover,407
+United States,Boca Raton,Pawling,408
+Poland,Jankowice,Bunting,409
+Palestinian Territory,Shūkat aş Şūfī,Dottie,410
+Cuba,Guantánamo,Algoma,411
+China,Tuhe,Lien,412
+China,Fengjiang,Maple Wood,413
+Philippines,Armenia,Warbler,414
+Poland,Krasne,Russell,415
+Brazil,Niquelândia,Vermont,416
+China,Jinquan,Upham,417
+Nigeria,Zuru,Pepper Wood,418
+Finland,Ilmajoki,Cherokee,419
+North Korea,Sinmak,Warbler,420
+Russia,Kayasula,Rutledge,421
+Philippines,Binucayan,Sauthoff,422
+Indonesia,Labansari,Helena,423
+Philippines,Alfonso,Summerview,424
+China,Juntang,Red Cloud,425
+Philippines,Malita,Cherokee,426
+Indonesia,Jorong Lauk,High Crossing,427
+China,Jing’an,2nd,428
+Nicaragua,Granada,Merrick,429
+China,Caobi,Browning,430
+China,Taojiahe,Browning,431
+Philippines,Tiwi,Northridge,432
+Czech Republic,Dobšice,Calypso,433
+Poland,Stara Błotnica,Steensland,434
+Russia,Ekimchan,Mitchell,435
+China,Tonggu,Bonner,436
+Tunisia,Banbalah,Reinke,437
+Poland,Stoczek Łukowski,Mallard,438
+China,Chaiwan,Heath,439
+China,Damai,Mallard,440
+Indonesia,Kabare,Lakeland,441
+Niger,Tahoua,Novick,442
+Sweden,Kungshamn,Hazelcrest,443
+Russia,Glushkovo,Toban,444
+China,Xixiang,Eastlawn,445
+Azerbaijan,Sumqayıt,Esch,446
+Guatemala,Chiantla,Dorton,447
+China,Maojiadian,Dixon,448
+China,Haiyu,Shopko,449
+Sweden,Trollhättan,Dapin,450
+Philippines,Malainen Luma,Maple,451
+Indonesia,Talok,Declaration,452
+Czech Republic,Bělá pod Bezdězem,Susan,453
+Portugal,São Pedro,Jackson,454
+Norway,Oslo,Arizona,455
+Afghanistan,Khulm,Laurel,456
+Indonesia,Nakajah,Briar Crest,457
+Philippines,Nama,Sullivan,458
+Finland,Kuhmo,Meadow Vale,459
+Portugal,Valada,Dixon,460
+Ireland,Swords,Darwin,461
+Netherlands,Utrecht (stad),Dexter,462
+Russia,Mariinsk,Anniversary,463
+Guatemala,El Estor,Maryland,464
+Portugal,Barrosa,Fieldstone,465
+Russia,Islamey,Carey,466
+Vietnam,Quỳ Châu,Forest Dale,467
+Norway,Ålesund,Golden Leaf,468
+Czech Republic,Kobylí,Lakewood Gardens,469
+Iraq,Ramadi,Claremont,470
+China,Huangzhuang,Autumn Leaf,471
+Dominican Republic,Bella Vista,Aberg,472
+South Africa,Mthatha,Kingsford,473
+Honduras,Las Ánimas,Upham,474
+Canada,Spirit River,Fisk,475
+Indonesia,Neundeut,Goodland,476
+China,Miaofengshan,American Ash,477
+China,Yiyang,Luster,478
+Vietnam,Bằng Lũng,Stone Corner,479
+Sweden,Stockholm,6th,480
+China,Puqian,Chive,481
+Japan,Ōno-hara,Namekagon,482
+Poland,Zbąszynek,Mitchell,483
+Malaysia,Kuantan,Dorton,484
+Indonesia,Caper,Rigney,485
+Argentina,Aluminé,Gerald,486
+Belgium,Ath,Waxwing,487
+Yemen,Al Ḩarf,Jackson,488
+China,Langxi,Linden,489
+China,Chengmagang,Walton,490
+Indonesia,Banjar Pande,Macpherson,491
+Indonesia,Sukorejo,Everett,492
+Indonesia,Margasari,Acker,493
+Morocco,Chichaoua,Tomscot,494
+Finland,Askainen,Sachtjen,495
+Colombia,La Ceja,Hazelcrest,496
+China,Yangjiao,Sycamore,497
+Madagascar,Mananara,Fallview,498
+Mongolia,Dzuunmod,Scoville,499
+Russia,Sovetskiy,Warner,500
